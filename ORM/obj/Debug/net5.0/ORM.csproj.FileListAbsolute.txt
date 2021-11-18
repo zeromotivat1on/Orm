@@ -1,0 +1,82 @@
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.exe
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.dll.config
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.deps.json
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.runtimeconfig.dev.json
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ref\ORM.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.pdb
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ref\ORM.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.pdb
+C:\Users\Xiaomi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.genruntimeconfig.cache
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xiaomi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.exe
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.dll.config
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.deps.json
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.runtimeconfig.json
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.runtimeconfig.dev.json
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ref\ORM.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\ORM.pdb
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\liannoi\Desktop\ORM\ORM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.AssemblyReference.cache
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfoInputs.cache
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfo.cs
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.csproj.CopyComplete
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.dll
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ref\ORM.dll
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.pdb
+C:\Users\liannoi\Desktop\ORM\ORM\obj\Debug\net5.0\ORM.genruntimeconfig.cache
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\bin\Debug\net5.0\ORM.deps.json
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\bin\Debug\net5.0\ORM.dll
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\bin\Debug\net5.0\ref\ORM.dll
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\bin\Debug\net5.0\ORM.pdb
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.csproj.AssemblyReference.cache
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfoInputs.cache
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.AssemblyInfo.cs
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.dll
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ref\ORM.dll
+C:\Users\liannoi\Desktop\education_liannoi\Task 5 - ORM\ORM\ORM\obj\Debug\net5.0\ORM.pdb
